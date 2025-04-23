@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vragen.md",
+                "file": "Links.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vragen"
+              "title": "Links"
             }
           }
         ]
@@ -169,15 +169,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "77834bdcb42577b6",
+  "active": "92c9188270437166",
   "lastOpenFiles": [
+    "Links.md",
+    "Taken.md",
     "Dagelijkse notities/2025-04-23.md",
+    "README.md",
+    "Afbeeldingen/Pasted image 20250423140328.png",
+    "Afbeeldingen/WTS filtering.png",
+    "Afbeeldingen/MTK log MSSQL.png",
+    "Afbeeldingen/Composition log MSSQL.png",
+    "Personen/Ram Bhola.md",
     "Vragen.md",
     "Dagelijkse notities/2025-04-17.md",
     "Personen/Pranesh Chandramohan.md",
     "Personen/Kas Buunk.md",
     "Personen/Wim Ariens.md",
-    "Taken.md",
     "Personen/Marcel Loeffen.md",
     "Personen/Eric van Wanrooij.md",
     "Personen/Brian van Delden.md",
@@ -186,7 +193,6 @@
     "Info opzoeken.md",
     "Issues/GNSS dropout.md",
     "Afkortingen.md",
-    "Links.md",
     "Bespreken.md",
     "Dagelijkse notities/2025-04-16.md",
     "Dagelijkse notities/2025-04-15.md",
@@ -196,8 +202,6 @@
     "Systemen/MCG.md",
     "Afbeeldingen/ServiceNow Miro screenshot.png",
     "Treinen/FLIRT.md",
-    "Treinen/SLT.md",
-    "Treinen/SNG.md",
     "Templates",
     "Tools",
     "Afbeeldingen/BTG HAL.png",
@@ -209,10 +213,8 @@
     "Afbeeldingen/SNG.png",
     "Afbeeldingen/FLIRT.png",
     "Afbeeldingen/SLT.png",
-    "Pasted image 20250416101214.png",
     "Treinen/Untitled.canvas",
     "Afbeeldingen",
-    "Pasted image 20250416095258.png",
     "Personen",
     "Personen",
     "Organisatie/RG6 - Treindigitalisering/SD&P - Software Desk en Platformen"
