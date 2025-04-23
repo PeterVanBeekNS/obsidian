@@ -1,0 +1,2 @@
+# obsidian
+Work notes
