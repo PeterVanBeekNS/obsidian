@@ -1,0 +1,5 @@
+- Why are there more messages than expected? More trains?
+-  Why is the tibco sensor data is consuming so many resources?
+- Simulation of whole chain? To test the load. Stress test. Multiple teams involved.
+- Is it a broker misconfiguration? How can a full queue 1 affect queue 2? Artemis configuration? TTL? The AMQP lifetime queue is a week. 
+- Do we monitor production properly? Alerting? Check LogzIO?

@@ -1,0 +1,1 @@
+Per kwartaal worden planningen gemaakt en afgestemd over de teams
