@@ -1,0 +1,1 @@
+Kunnen we een status meesturen die iets zegt over conditie/beschikbaarheid van de RSU?

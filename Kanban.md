@@ -8,18 +8,18 @@ kanban-plugin: board
 
 - [ ] Uitzoeken Redis cache #opdracht ^0d2h06
 - [ ] BTG applicatie registreren #opdracht
+- [ ] DDNG nieuwe architectuur #opdracht
 
 
 ## Selected
 
-- [ ] BTG keten in kaart brengen  #opdracht
-	- [ ] TCMG documentatie doornemen
-- [ ] GPS issue onderzoeken [[GNSS dropout]] #opdracht
 - [ ] NTT alternatieve lijn #opdracht
 
 
 ## Doing
 
+- [ ] [[BTG keten in kaart brengen]]#opdracht
+- [ ] [[WTS next generation]] #opdracht
 
 
 ## Done

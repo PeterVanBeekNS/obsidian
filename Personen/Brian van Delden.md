@@ -1,3 +1,3 @@
 Solution Architect B@M
 
-- [ ] Gesprek plannen met
+- [x] Gesprek plannen met ✅ 2025-04-24
