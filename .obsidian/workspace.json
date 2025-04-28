@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Opdrachten/BTG keten in kaart brengen.md",
+                "file": "Bespreken.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BTG keten in kaart brengen"
+              "title": "Bespreken"
             }
           }
         ],
@@ -186,6 +186,9 @@
   },
   "active": "80a9667a5f7ed149",
   "lastOpenFiles": [
+    "Archi/BTG chain.archimate",
+    "Opdrachten/BTG keten in kaart brengen.md",
+    "Archi",
     "Afbeeldingen/ServiceNow Miro screenshot.png",
     "Afbeeldingen/MTK log MSSQL.png",
     "Afbeeldingen/WTS filtering.png",
@@ -196,7 +199,6 @@
     "Treinen/ICM.md",
     "Taken.md",
     "Dagelijkse notities/2025-04-24.md",
-    "Opdrachten/BTG keten in kaart brengen.md",
     "Personen/Mark Stroomberg.md",
     "Opdrachten/WTS next generation.md",
     "BTG/Basis Trein Gegevens.md",
@@ -230,7 +232,6 @@
     "Systemen",
     "Treinen/Untitled.canvas",
     "Afbeeldingen",
-    "Personen",
     "Personen"
   ]
 }
