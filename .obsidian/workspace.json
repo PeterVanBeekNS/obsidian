@@ -11,32 +11,40 @@
             "id": "4c63545034868253",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban-view",
               "state": {
-                "file": "Taken.md",
-                "mode": "preview",
-                "source": false
+                "file": "_Werk/Kanban taken.md"
               },
-              "icon": "lucide-file",
-              "title": "Taken"
+              "icon": "kanban-square",
+              "title": "Kanban taken"
             }
           },
           {
-            "id": "80a9667a5f7ed149",
+            "id": "08a93214edc4c93f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban-view",
               "state": {
-                "file": "Bespreken.md",
-                "mode": "source",
-                "source": false
+                "file": "_Werk/Kanban taken.md"
               },
-              "icon": "lucide-file",
-              "title": "Bespreken"
+              "icon": "kanban-square",
+              "title": "Kanban taken"
+            }
+          },
+          {
+            "id": "c3af803868bff2de",
+            "type": "leaf",
+            "state": {
+              "type": "kanban-view",
+              "state": {
+                "file": "_Werk/Kanban taken.md"
+              },
+              "icon": "kanban-square",
+              "title": "Kanban taken"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,44 +192,46 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "80a9667a5f7ed149",
+  "active": "c3af803868bff2de",
   "lastOpenFiles": [
+    "Vragen.md",
+    "_Werk/Bespreken.md",
+    "_Werk/Kanban taken.md",
+    "Afkortingen.md",
+    "Taken.md",
+    "Kanban opdrachten.md",
+    "Links.md",
+    "Info opzoeken.md",
+    "_Werk/Issues/GNSS dropout.md",
+    "_Werk/Issues/Full AMQP queues.md",
+    "BTG/Basis Trein Gegevens.md",
+    "_Werk/Dagelijkse notities/2025-04-30.md",
+    "Templates/Vragen software engineer.md",
+    "Templates/Vragen PO.md",
+    "_Werk/Dagelijkse notities/2025-04-16.md",
+    "_Werk",
+    "_Werk/Opdrachten/BTG keten in kaart brengen.md",
+    "_Werk/Dagelijkse notities/2025-04-15.md",
+    "_Werk/Personen/Pranesh Chandramohan.md",
+    "Dagelijkse notities/_Topic of the day.md",
+    "_Werk/Personen/Martijn Gijsberti Hodenpijl.md",
+    "_Werk/Dagelijkse notities/2025-04-29.md",
+    "_Werk/Opdrachten/WTS next generation.md",
+    "_Werk/Dagelijkse notities/2025-04-28.md",
     "Archi/BTG chain.archimate",
-    "Opdrachten/BTG keten in kaart brengen.md",
     "Archi",
     "Afbeeldingen/ServiceNow Miro screenshot.png",
     "Afbeeldingen/MTK log MSSQL.png",
     "Afbeeldingen/WTS filtering.png",
-    "Kanban.md",
-    "Info opzoeken.md",
-    "Dagelijkse notities/2025-04-28.md",
-    "Personen/Erik Hanson.md",
+    "_Werk/Personen/Erik Hanson.md",
     "Treinen/ICM.md",
-    "Taken.md",
-    "Dagelijkse notities/2025-04-24.md",
-    "Personen/Mark Stroomberg.md",
-    "Opdrachten/WTS next generation.md",
-    "BTG/Basis Trein Gegevens.md",
-    "Vragen.md",
+    "_Werk/Dagelijkse notities/2025-04-24.md",
     "Afbeeldingen/Dienstregelpunten.png",
-    "Afkortingen.md",
-    "Issues/GNSS dropout.md",
-    "Personen/Brian van Delden.md",
-    "Dagelijkse notities/2025-04-16.md",
-    "Templates/Vragen software engineer.md",
-    "Templates/Vragen PO.md",
-    "Personen/Ikzelf.md",
-    "Personen/Martijn met moeilijke achternaam.md",
-    "Links.md",
-    "Personen/Wim Ariens.md",
-    "Personen/Sven Ariaans.md",
-    "Personen/Sophan Omranian Khorasani.md",
-    "Personen/Ram Bhola.md",
     "Afbeeldingen/ICNG.png",
     "Afbeeldingen/DDNG.png",
     "Afbeeldingen/ICM.png",
     "Afbeeldingen/DDZ.png",
-    "Opdrachten",
+    "_Werk/Opdrachten",
     "Afbeeldingen/Pasted image 20250423140328.png",
     "Afbeeldingen/Composition log MSSQL.png",
     "Templates",
@@ -230,8 +240,6 @@
     "Organisatie/RG6 - Treindigitalisering/SD&P - Software Desk en Platformen/Teams",
     "Leren",
     "Systemen",
-    "Treinen/Untitled.canvas",
-    "Afbeeldingen",
-    "Personen"
+    "Treinen/Untitled.canvas"
   ]
 }
