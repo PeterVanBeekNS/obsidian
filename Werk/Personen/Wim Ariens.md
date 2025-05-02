@@ -1,3 +1,3 @@
-Software Engineer [[BTG]]
+Software Engineer VT/WTS
 
 - [ ] Gesprek plannen #soonish

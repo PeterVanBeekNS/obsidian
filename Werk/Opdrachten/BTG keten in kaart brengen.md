@@ -1,7 +1,7 @@
 ## Taken
 - [ ] TCMG documentatie doornemen
 - [ ] Python script opvragen
-- [ ] Extra info opvragen GNSS issue [[Mark Stroomberg]]  [[GNSS dropout]]
+- [ ] Extra info opvragen GNSS issue [[Mark Stroomberg]]  [[GNSS dropout]] #soonish
 - [ ] Grove structuur keten optekenen
 
 Testcase: Virm. Een deel is al Paas, een deel klassiek
