@@ -1,3 +1,6 @@
 Software Engineer VT/WTS
 
-- [ ] Gesprek plannen #soonish
+- [x] Gesprek plannen
+
+[[Vragen software engineer]]
+

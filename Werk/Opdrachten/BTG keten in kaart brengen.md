@@ -1,6 +1,6 @@
 ## Taken
 - [ ] TCMG documentatie doornemen
-- [ ] Python script opvragen
+- [ ] Python script opvragen #soonish
 - [ ] Extra info opvragen GNSS issue [[Mark Stroomberg]]  [[GNSS dropout]] #soonish
 - [ ] Grove structuur keten optekenen
 

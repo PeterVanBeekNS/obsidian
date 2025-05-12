@@ -8,7 +8,10 @@
     
 - Gespecialiseerd in het snijvlak van software en hardware.
     
-- In 2009 begonnen bij Eurailscout als ontwikkelaar.
+- In 2009 begonnen bij Eurailscout als ontwikkelaar. Eurailscout:
+	- Oud NS Techniek, spoorinspectie met meetreinen
+	- Metingen: spoorgeometrie(bijv. spoorwijdte en profielen), spoorstaafmetingen, visuele inspectie, wisselmetingen, bovenleidinginspectie.
+	- Technieken: laser, ultrasoon, line-scan, GNSS, IMU, videobeelden
     
 - Bij Eurailscout gewerkt aan meetsystemen op treinen en aan dataverwerking- en analyse­software aan de walzijde.
     
@@ -27,7 +30,7 @@
 
 **Persoonlijk**
 
-- Ik woon samen met mijn vriendin, zoontje en dochter van 9 in Ede, vlak bij bos en heide.
+- Ik woon samen met mijn vriendin, zoon van 11  en dochter van 9 in Ede, vlak bij bos en heide.
     
 - In mijn vrije tijd sport ik graag en bezoek ik met veel plezier concerten en festivals.
 
@@ -42,8 +45,11 @@
     
 - Specialized in the intersection between software and hardware.
     
-- Joined Eurailscout in 2009 as a developer.
-    
+- Joined Eurailscout in 2009 as a developer. **Eurailscout:**
+	- Former NS Techniek division, specialized in railway inspection using measurement trains	    
+	- Measurements: track geometry (e.g., track gauge and profiles), rail inspections, visual inspections, switch measurements, overhead line inspections	    
+	- Technologies: laser, ultrasound, line-scan cameras, GNSS, IMU, video imaging	    
+	    
 - Worked on measurement systems onboard trains, as well as data processing and analysis software on the ground side.
     
 - Gradually transitioned into an architect role; became team lead in 2015.
@@ -61,7 +67,7 @@
 
 **Personal**
 
-- I live with my partner, son, and 9-year-old daughter in Ede, close to forests and heathland.
+- I live with my partner, 11-year-old son, and 9-year-old daughter in Ede, close to forests and heathland.
     
 - In my spare time, I enjoy sports, concerts, and music festivals.
 

@@ -1,3 +1,3 @@
 IT engineer [[BTG]]
 
-- [ ] Gesprek plannen
+- [x] Gesprek plannen

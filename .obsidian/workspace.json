@@ -8,31 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c63545034868253",
+            "id": "29f546b5143cd97c",
             "type": "leaf",
             "state": {
-              "type": "kanban-view",
+              "type": "markdown",
               "state": {
-                "file": "Werk/Kanban taken.md"
+                "file": "Werk/Personen/Kees Vogelaar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "kanban-square",
-              "title": "Kanban taken"
+              "icon": "lucide-file",
+              "title": "Kees Vogelaar"
             }
           },
           {
-            "id": "b78d2513ef802272",
+            "id": "fe3698d4520cdbbb",
             "type": "leaf",
             "state": {
-              "type": "kanban-view",
+              "type": "markdown",
               "state": {
-                "file": "Werk/Kanban taken.md"
+                "file": "Werk/Personen/Kas Buunk.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "kanban-square",
-              "title": "Kanban taken"
+              "icon": "lucide-file",
+              "title": "Kas Buunk"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,22 +180,36 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "spreadsheets:New Spreadsheet": false
     }
   },
-  "active": "b78d2513ef802272",
+  "active": "29f546b5143cd97c",
   "lastOpenFiles": [
-    "Werk/Personen/Ikzelf.md",
     "Werk/Kanban taken.md",
+    "Werk/Personen/Kees Vogelaar.md",
+    "Werk/Dagelijkse notities/2025-05-07.md",
+    "Werk/Personen/Martijn Gijsberti Hodenpijl.md",
+    "Untitled.canvas",
+    "Werkschema.sheet",
+    "Links.md",
+    "Werk/Personen/Kas Buunk.md",
+    "Templates/Vragen software engineer.md",
+    "Werk/Personen/Sobhan Omranian Khorasani.md",
+    "Werk/Personen/Ikzelf.md",
+    "Werk/Personen/Wim Ariens.md",
+    "Werk/Dagelijkse notities/2025-05-06.md",
+    "Werk/Bespreken.md",
+    "Werk/Dagelijkse notities/2025-05-01.md",
     "Werk/Dagelijkse notities/2025-05-02.md",
+    "Presentaties/Microservice breakdown in HAL and streams.md",
+    "Presentaties",
+    "Organisatie/RG6 - Treindigitalisering/SD&P - Software Desk en Platformen/Teams/TSA.md",
     "Vragen.md",
     "Afbeeldingen/CNCF trail map.png",
     "Pasted image 20250502093506.png",
-    "Links.md",
     "BTG/Basis Trein Gegevens.md",
     "Werk/Dagelijkse notities/2025-04-23.md",
-    "Werk/Bespreken.md",
-    "Werk/Dagelijkse notities/2025-05-01.md",
     "Kanban opdrachten.md",
     "Info opzoeken.md",
     "Werk/Dagelijkse notities/2025-04-16.md",
@@ -200,16 +217,7 @@
     "Taken.md",
     "Werk/Issues/GNSS dropout.md",
     "Werk/Issues/Full AMQP queues.md",
-    "Werk/Dagelijkse notities/2025-04-30.md",
-    "Templates/Vragen software engineer.md",
-    "Templates/Vragen PO.md",
     "Werk",
-    "Werk/Opdrachten/BTG keten in kaart brengen.md",
-    "Werk/Dagelijkse notities/2025-04-15.md",
-    "Werk/Personen/Pranesh Chandramohan.md",
-    "Dagelijkse notities/_Topic of the day.md",
-    "Werk/Personen/Martijn Gijsberti Hodenpijl.md",
-    "Werk/Dagelijkse notities/2025-04-29.md",
     "Archi/BTG chain.archimate",
     "Archi",
     "Afbeeldingen/ServiceNow Miro screenshot.png",
@@ -225,8 +233,6 @@
     "Tools",
     "BTG",
     "Organisatie/RG6 - Treindigitalisering/SD&P - Software Desk en Platformen/Teams",
-    "Leren",
-    "Systemen",
     "Treinen/Untitled.canvas"
   ]
 }
