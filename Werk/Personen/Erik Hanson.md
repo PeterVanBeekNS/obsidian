@@ -1,3 +1,3 @@
 [[RIT]]
 
-- [ ] Gesprek plannen
+- [ ] Gesprek plannen #soonish

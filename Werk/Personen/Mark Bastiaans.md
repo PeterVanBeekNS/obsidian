@@ -1,3 +1,3 @@
 Software Engineer [[BTG]]
 
-- [ ] Gesprek plannen #waiting-response
+- [x] Gesprek plannen

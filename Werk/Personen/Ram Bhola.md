@@ -1,3 +1,3 @@
 Software Engineer VT/WTS
 
-- [ ] Gesprek plannen #waiting-response
+- [x] Gesprek plannen

@@ -6,9 +6,11 @@ kanban-plugin: board
 
 ## Potential work
 
-- [ ] Uitzoeken Redis cache ^0d2h06
+- [ ] Opslag events shore side ^0d2h06
 - [ ] BTG applicatie registreren
 - [ ] DDNG nieuwe architectuur
+- [ ] Testen & pipeline
+- [ ] Monitoring & alerting
 
 
 ## Selected
